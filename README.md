@@ -1,0 +1,2 @@
+# cria-es-e-inspira-es
+Olá, sou estudante de analise e desenvolvimento de sistemas, apaixonado por tecnologia e programação Fullstack. Busco cada vez mais me qualificar nas mais diversas tecnologias para poder por em prática todos os projetos que eu tenho em mente que de alguma forma possa agregar nas mais diversas áreas. Estou sempre disposto a aprender um pouco mais e estou dando foco a linguagem e tecnologias como Javascript, React, TypeScript, Angular, Sql como foco atual.
